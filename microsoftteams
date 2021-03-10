@@ -1,7 +1,8 @@
 fqdn,*.adl.windows.com
 fqdn,*.broadcast.skype.com
 fqdn,*.keydelivery.mediaservices.windows.net
-fqdn,*.lync.com*.teams.microsoft.com
+fqdn,*.lync.com
+fqdn,*.teams.microsoft.com
 fqdn,*.msecnd.net
 fqdn,*.msedge.net
 fqdn,*.mstea.ms
